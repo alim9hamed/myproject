@@ -1,1 +1,2 @@
-name Ali Mohamed
+Name Ali Mohamed
+Age 20
